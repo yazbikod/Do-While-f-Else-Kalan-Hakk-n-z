@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do While İf Else Kalan Hakkınız", "Do While İf Else Kalan Hakkınız.csproj", "{E07C376D-FA3F-4794-A68A-010E70FD1C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07C376D-FA3F-4794-A68A-010E70FD1C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07C376D-FA3F-4794-A68A-010E70FD1C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07C376D-FA3F-4794-A68A-010E70FD1C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07C376D-FA3F-4794-A68A-010E70FD1C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40ACBC44-2FD0-40BC-B242-4EF6E91B705A}
+	EndGlobalSection
+EndGlobal
